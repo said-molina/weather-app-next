@@ -1,0 +1,79 @@
+[
+  {
+      "01d": { 
+           
+          "icon": "/icons/1.svg"},
+      
+      "01n": { 
+         
+          "icon": "/icons/01n.svg"},
+
+      "02d": { 
+          
+          "icon": "/icons/2.svg"},
+
+      "02n": { 
+          
+          "icon": "/icons/02n.svg"},
+      
+      "03d": { 
+          
+          "icon": "/icons/3.svg"},
+      
+      "03n": { 
+          
+          "icon": "icons/3.svg"},
+
+      "04d": { 
+           
+          "icon": "/icons/4.svg"},
+
+      "04n": { 
+         
+          "icon" : "/icons/4.svg"},
+
+      "05d": { 
+           
+          "icon": "/icons/5.svg"},
+      
+      "05n": { 
+           
+          "icon": "/icons/5.svg"},
+
+      "06d": { 
+          
+          "icon": "/icons/6.svg"},
+
+      "06n": { 
+          
+          "icon": "/icons/6.svg"},
+
+      "07d": { 
+           
+          "icon": "/icons/7.svg"},
+
+      "07n": { 
+        
+          "icon": "/icons/7.svg"},
+
+      "08d": { 
+          
+          "icon": "/icons/8.svg"},
+
+      "08n": { 
+           
+          "icon": "/icons/8.svg"},
+
+      "09d": { 
+           
+          "icon": "icons/9.svg"},
+
+      "09n": { 
+          
+          "icon": "/icons/9.svg"},
+      
+      "10n": { 
+          
+          "icon": "/icons/10n.svg"}    
+  }
+]
